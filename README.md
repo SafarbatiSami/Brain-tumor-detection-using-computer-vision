@@ -5,10 +5,10 @@ we use a Median Filter for noise reducing.
 **Second step is image Croping** which consist of resizing the image to a standard format.
 **Binarize image**
 **Finding contours**
-**Drawing contours **
+**Drawing contours**
 
 
 Language : Python
-libraries :== OpenCV2 ,Numpy ==.
+libraries :==OpenCV2 ,Numpy==.
 
 
