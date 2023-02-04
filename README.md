@@ -9,6 +9,7 @@ we use a Median Filter for noise reducing.
 
 
 Language : Python <br>
-libraries : OpenCV2 ,Numpy.
+libraries : OpenCV2 ,Numpy.<br>
+**Contact for colab :** samsafarbati@hotmail.com
 
 
