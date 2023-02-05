@@ -7,7 +7,7 @@ Les algorithmes de traitement d'images et les réseaux de neurones sont souvent 
 La vision par ordinateur a de nombreuses applications dans les secteurs de la sécurité, de la robotique, de la médecine et du divertissement.
 La vision par ordinateur peut détecter la présence ou l'absence de tumeur dans le cerveau. <br>
 
-Dans ce projet, j'utilise des techniques de traitement d'images pour détecter les néoplasmes (masse anormale de tissu à travers laquelle les cellules se développent et se multiplient de manière incontrôlable). 
+Dans ce projet, j'utilise des techniques de traitement d'images pour détecter les néoplasmes (masse anormale de tissu à travers laquelle les cellules se développent et se multiplient de manière incontrôlable). <br>
 **La première étape** est le recadrage d'image qui consiste à redimensionner l'image à un format standard.<br>
       
 **La deuxième étape** est le prétraitement de l'image qui consiste à réduire/supprimer le bruit dans l'image, dans notre cas c'est une IRM. nous utilisons un filtre médian pour réduire le bruit.
@@ -17,4 +17,5 @@ Cela signifie que tout pixel de l'image avec une intensité de luminosité supé
 <br>
 **La quatrième étape** c'est la Détection de contours, c'est est une technique fréquemment utilisée en traitement d'image pour trouver les bords ou les frontières des objets dans une image
 <br>
-**La cinquième étape** c'est Dessiner les contours sur l'image original
+**La cinquième étape** c'est Dessiner les contours sur l'image original <br>
+**CONTACT :** samsafarbati@hotmail.com
