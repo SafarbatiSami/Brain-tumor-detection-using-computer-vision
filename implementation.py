@@ -1,12 +1,12 @@
 #############################################- Image Processing software v1.0 -#########################################################################
-# THIS SOFTWARE WAS MADE BY TWO IMPLIED 'SIGNAL AND IMAGE PROCESSING' STUDENTS OF UNIVERSITY OF CLERMONT AUVERGNE, SAMI SAFARBATI AND ILHAME BELARREM .#
+# THIS SOFTWARE WAS MADE BY AN IMPLIED 'SIGNAL AND IMAGE PROCESSING' STUDENT OF UNIVERSITY OF CLERMONT AUVERGNE, SAMI SAFARBATI.                       #
 #                                                                                                                                                      #
 #                                                                                                                                                      #
 #                                                                                                                                                      #
 #                                                                                                                                                      #
 #   PLEASE READ THE DESCRIPTION BEFORE USING THIS !!!! (JOKING THERE IS NO GUIDE, YOU'RE ON YOUR OWN)                                                  #
 #   CONTACTS: SAMI SAFARBATI (samsafarbati@hotmail.com)                                                                                                #
-#             ILHAME BELARREM (ilhame.BELARREM@etu.uca.fr)                                                                                             #
+#                                                                                                                                                      #
 ########################################################################################################################################################
 
 
